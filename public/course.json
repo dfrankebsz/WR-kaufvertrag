@@ -1,0 +1,1865 @@
+{
+ "sections": [
+  {
+   "id": "abschluss",
+   "title": "01 · Vertragsschluss",
+   "subtitle": "Antrag, Annahme, Angebotsbindung und unbestellte Waren",
+   "intro": "Ein Kaufvertrag entsteht durch zwei inhaltlich übereinstimmende Willenserklärungen: **Antrag** und **Annahme**. Eine Schaufensterauslage oder Werbung ist in der Regel eine **invitatio ad offerendum** – eine Aufforderung, einen Antrag abzugeben. Eine Annahme mit Änderungen ist nach **§ 150 Abs. 2 BGB ein neuer Antrag**. Die Annahmefrist richtet sich nach **§ 147 BGB**; „eine Woche“ ist keine gesetzliche Pauschalfrist.",
+   "story": "Mira plant für die Schülerfirma „LoopLab“ einen Online-Shop für nachhaltiges Zubehör. Sie bestellt Verpackungen und verkauft generalüberholte Technik."
+  },
+  {
+   "id": "inhalt",
+   "title": "02 · Vertragsinhalt",
+   "subtitle": "Preis, Lieferung, Rabatt, Skonto und Vertragsgestaltung",
+   "intro": "Zu den typischen Vertragsbedingungen zählen **Vertragsparteien**, **Ware/Beschaffenheit**, **Menge**, **Kaufpreis**, **Zahlungs- und Lieferbedingungen** sowie mögliche **Preisnachlässe**. Ein **Rabatt** reduziert den vereinbarten Preis; **Skonto** ist ein vereinbarter Nachlass für schnelle Zahlung.",
+   "story": "LoopLab bestellt bei einem Großhändler Versandkartons und verhandelt über Lieferort, Stückpreise und Zahlungsbedingungen."
+  },
+  {
+   "id": "ort",
+   "title": "03 · Erfüllungsort & Risiko",
+   "subtitle": "Holschuld, Schickschuld, Bringschuld, Versandgefahr und Gerichtsstand",
+   "intro": "Der **Leistungsort/Erfüllungsort** ergibt sich aus Vereinbarung und Umständen, hilfsweise **§ 269 BGB**. Eine **Holschuld** verlangt Bereitstellung beim Schuldner; bei einer **Bringschuld** muss der Schuldner am Empfangsort leisten. Geldschulden sind besonders geregelt (**§ 270 BGB**). Beim **Verbrauchsgüterkauf** trägt der Unternehmer beim regulären Versand grundsätzlich das Transportrisiko bis zur Übergabe; im unternehmerischen Versendungskauf kann **§ 447 BGB** greifen. Der **Gerichtsstand** ist nicht stets mit dem Erfüllungsort identisch.",
+   "story": "LoopLab kauft bei einem Lieferanten aus Köln Ware für den Betrieb in Leipzig. Ein Kunde bestellt privat im Online-Shop."
+  },
+  {
+   "id": "pflichten",
+   "title": "04 · Pflichten & Eigentum",
+   "subtitle": "Verpflichtungsgeschäft, Erfüllungsgeschäft, Eigentum",
+   "intro": "Der **Kaufvertrag (§ 433 BGB)** begründet Pflichten: Verkäufer müssen die Sache übergeben, **Eigentum verschaffen** und grundsätzlich **mangelfrei** leisten; Käufer müssen den Preis zahlen und die Sache abnehmen. Das **Verpflichtungsgeschäft** erzeugt Ansprüche; das **Erfüllungsgeschäft** setzt diese um. Abschluss und Eigentumsübertragung sind zu unterscheiden.",
+   "story": "LoopLab verkauft eine gebrauchte Spielekonsole. Der Vertrag ist geschlossen, obwohl das Gerät erst am Folgetag übergeben wird."
+  },
+  {
+   "id": "maengel",
+   "title": "05 · Sach- und Rechtsmängel",
+   "subtitle": "Mangelarten, Abweichungen, Rechte Dritter",
+   "intro": "Ein **Sachmangel (§ 434 BGB)** liegt vor, wenn vereinbarte, objektiv erforderliche oder Montageanforderungen nicht erfüllt sind. Auch **Falschlieferung** kann einen Sachmangel darstellen. Ein **Rechtsmangel (§ 435 BGB)** liegt vor, wenn Dritte Rechte an der Sache geltend machen können, die der Käufer nicht übernehmen muss.",
+   "story": "Ein bei LoopLab gekauftes Headset hat eine defekte Taste; ein anderer Artikel ist durch Rechte Dritter belastet."
+  },
+  {
+   "id": "rechte",
+   "title": "06 · Käuferrechte",
+   "subtitle": "Nacherfüllung, Rücktritt, Minderung, Schadensersatz",
+   "intro": "Bei Mängeln stehen Käuferinnen und Käufern nach **§§ 437, 439 BGB** zunächst grundsätzlich **Nacherfüllungsrechte** zu. Die **Wahl zwischen Reparatur und Ersatzlieferung** liegt grundsätzlich beim Käufer, vorbehaltlich gesetzlicher Grenzen. Unter den jeweiligen Voraussetzungen kommen **Minderung**, **Rücktritt** und **Schadensersatz** hinzu. Nicht immer ist eine Frist erforderlich; es gibt keine starre Regel „zwei Reparaturversuche für alle Fälle“.",
+   "story": "Ein Kunde reklamiert bei LoopLab ein Tablet. Sie prüfen die Rechte und entscheiden, welche Lösung rechtlich vertretbar ist."
+  },
+  {
+   "id": "test",
+   "title": "07 · Kompetenzcheck",
+   "subtitle": "Abschlusstest, Reflexion und Praxisfall",
+   "intro": "Wenden Sie die Regeln aus den Kapiteln auf neue Situationen an. Begründen Sie Ihre rechtlichen Entscheidungen. Nach dem Test können Sie Ihre Kompetenzen auf einer **Skala von 1 bis 5** einschätzen.",
+   "story": "LoopLab veranstaltet einen Verkaufsaktionstag. Jetzt müssen Sie sämtliche Vertragsschritte und mögliche Probleme eigenständig beurteilen."
+  }
+ ],
+ "questions": [
+  {
+   "id": "q001",
+   "chapter": "abschluss",
+   "afb": 1,
+   "type": "single",
+   "prompt": "Welche zwei Willenserklärungen führen grundsätzlich zum Kaufvertrag?",
+   "answer": "Antrag und Annahme",
+   "explain": "§§ 145 ff. BGB.",
+   "source": "Buch S. 33 Aufgabe 2",
+   "bonus": false,
+   "options": [
+    "Angebot und Werbung",
+    "Antrag und Annahme",
+    "Bestellung und Zahlung"
+   ]
+  },
+  {
+   "id": "q002",
+   "chapter": "abschluss",
+   "afb": 1,
+   "type": "match",
+   "prompt": "Ordnen Sie die beiden Vertragsschlusswege zu.",
+   "answer": [
+    [
+     "Verkäufer bietet verbindlich an",
+     "Käufer nimmt an"
+    ],
+    [
+     "Käufer bestellt ohne bindendes Angebot",
+     "Verkäufer bestätigt oder liefert"
+    ]
+   ],
+   "explain": "Das erste bindende Angebot kann von jeder Vertragspartei kommen.",
+   "source": "Buch S. 33 Aufgabe 1",
+   "bonus": false
+  },
+  {
+   "id": "q003",
+   "chapter": "abschluss",
+   "afb": 2,
+   "type": "single",
+   "prompt": "LoopLab bietet Mira persönlich 50 Taschen zum Stückpreis von 4 € an. Mira sagt „Ich nehme 40 Stück“. Was gilt?",
+   "answer": "Neuer Antrag von Mira",
+   "explain": "§ 150 Abs. 2 BGB: Die abgeänderte Annahme gilt als Ablehnung verbunden mit neuem Antrag.",
+   "source": "PDF Aufgabe 5b",
+   "bonus": false,
+   "options": [
+    "Vertrag über 40 Stück",
+    "Neuer Antrag von Mira",
+    "Vertrag über 50 Stück"
+   ]
+  },
+  {
+   "id": "q004",
+   "chapter": "abschluss",
+   "afb": 2,
+   "type": "text",
+   "prompt": "PDF-Fall 1: STAR-Filme sendet Elke Werner am 12. Februar ein schriftliches Angebot über 100 Diafilme für 2,50 € je Stück. Am 25. Februar erinnert sie sich daran. Wie lange besteht die Bindung?",
+   "answer": "Bei einem Antrag unter Abwesenden bis zu dem Zeitpunkt, zu dem unter regelmäßigen Umständen eine Antwort erwartet werden darf (§ 147 Abs. 2 BGB). Nach 13 Tagen ist die Bindung unter üblichen Umständen häufig abgelaufen; eine feste Wochenfrist schreibt das Gesetz nicht vor.",
+   "explain": "Die Postlaufzeit und angemessene Überlegungszeit sind fallabhängig.",
+   "source": "PDF Aufgabe 1a/b",
+   "bonus": false
+  },
+  {
+   "id": "q005",
+   "chapter": "abschluss",
+   "afb": 2,
+   "type": "single",
+   "prompt": "PDF-Fall 1: Ein Handelsvertreter bietet Elke Werner im persönlichen Gespräch Diafilme zu 2,80 € an. Wann muss sie regelmäßig annehmen?",
+   "answer": "Während des Gesprächs",
+   "explain": "Ein Angebot unter Anwesenden ist grundsätzlich sofort anzunehmen (§ 147 Abs. 1 BGB).",
+   "source": "PDF Aufgabe 1a/b",
+   "bonus": false,
+   "options": [
+    "Während des Gesprächs",
+    "Innerhalb von sieben Tagen",
+    "Innerhalb von 14 Tagen"
+   ]
+  },
+  {
+   "id": "q006",
+   "chapter": "abschluss",
+   "afb": 2,
+   "type": "text",
+   "prompt": "PDF-Fall 2: Im Schaufenster ist eine Vase versehentlich mit 10 € statt 100 € ausgezeichnet. Die Verkäuferin lehnt 10 € ab. Besteht ein Anspruch auf Verkauf für 10 €? Begründen Sie.",
+   "answer": "Nein. Eine gewöhnliche Schaufensterauslage ist eine Aufforderung zur Abgabe eines Angebots. Die Kundin stellt den Antrag zu 10 €, die Verkäuferin nimmt ihn nicht an. Es besteht kein Kaufvertrag über 10 €.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "PDF Aufgabe 2",
+   "bonus": false
+  },
+  {
+   "id": "q007",
+   "chapter": "abschluss",
+   "afb": 2,
+   "type": "text",
+   "prompt": "PDF-Fall 3a: Ein Privatverkäufer inseriert einen Pkw für 8.000 €. Der Interessent bietet 7.000 €. Welche Erklärung ist der erste rechtlich bindende Antrag?",
+   "answer": "Das konkrete Angebot des Interessenten über 7.000 €. Die Zeitungsanzeige ist üblicherweise nur eine Aufforderung, Angebote abzugeben.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "PDF Aufgabe 3a",
+   "bonus": false
+  },
+  {
+   "id": "q008",
+   "chapter": "abschluss",
+   "afb": 1,
+   "type": "tf",
+   "prompt": "PDF-Fall 3b: Einigen sich Verkäufer und Käufer eindeutig auf 7.500 €, können zwei übereinstimmende Willenserklärungen vorliegen.",
+   "answer": true,
+   "explain": "Bei Einigung kann ein Kaufvertrag entstehen.",
+   "source": "PDF Aufgabe 3b",
+   "bonus": false
+  },
+  {
+   "id": "q009",
+   "chapter": "abschluss",
+   "afb": 2,
+   "type": "text",
+   "prompt": "PDF-Fall 4: Ein Architekt möchte Monate nach Erhalt eines Angebots drei Schreibtische zum alten Preis kaufen. Ist der Anbieter noch gebunden?",
+   "answer": "Regelmäßig nein. Ohne besondere Bindungsfrist ist die Annahmefrist für einen Antrag unter Abwesenden nach § 147 Abs. 2 BGB nach Monaten normalerweise verstrichen. Die späte Erklärung kann als neuer Antrag gelten.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "PDF Aufgabe 4",
+   "bonus": false
+  },
+  {
+   "id": "q010",
+   "chapter": "abschluss",
+   "afb": 2,
+   "type": "match",
+   "prompt": "PDF-Fall 5: Ordnen Sie zu, ob jeweils ein Vertrag entsteht.",
+   "answer": [
+    [
+     "Kunde wählt Uhr aus und zahlt; Geschäft übergibt",
+     "Vertrag durch schlüssiges Handeln"
+    ],
+    [
+     "Annahme mit Preis- und Lieferänderung",
+     "Neuer Antrag"
+    ],
+    [
+     "Lexikon unbestellt an Privatperson, keine Reaktion",
+     "Kein Kaufvertrag allein durch Schweigen"
+    ],
+    [
+     "Pullover im Schaufenster falsch ausgezeichnet",
+     "Kein Anspruch auf Schaufensterpreis"
+    ],
+    [
+     "Spielkonsole in Zeitungsanzeige falsch bepreist",
+     "Kein Anspruch auf Anzeigenpreis"
+    ],
+    [
+     "Tennisschläger bestellt, Unternehmen versendet",
+     "Regelmäßig Vertrag durch Bestellung und Versand"
+    ]
+   ],
+   "explain": "Im ursprünglichen Fall 5f ist zusätzlich ein gesetzliches Widerrufsrecht bei Fernabsatz denkbar; Rücksendung nicht pauschal ausgeschlossen.",
+   "source": "PDF Aufgabe 5a–f",
+   "bonus": false
+  },
+  {
+   "id": "q011",
+   "chapter": "abschluss",
+   "afb": 3,
+   "type": "text",
+   "prompt": "PDF-Fall 5f: Claudia bestellt einen Tennisschläger per Fax, der Händler liefert. Claudia behauptet, mangels Annahme sei kein Vertrag entstanden. Prüfen Sie den Vertragsschluss und erörtern Sie ein mögliches Widerrufsrecht.",
+   "answer": "Bestellung = Antrag; Versand/Lieferung kann Annahme sein. Es besteht grundsätzlich ein Vertrag. Ist Claudia Verbraucherin und der Verkäufer Unternehmer im Fernabsatz, kann ihr unter den Voraussetzungen der §§ 312g, 355 BGB ein Widerrufsrecht zustehen. Die bloße Behauptung, es gebe keinen Vertrag, ist falsch.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "PDF Aufgabe 5f – aktualisiert",
+   "bonus": false
+  },
+  {
+   "id": "q012",
+   "chapter": "abschluss",
+   "afb": 2,
+   "type": "match",
+   "prompt": "PDF-Buchaufgabe 4: Welche Ursache beendet oder beschränkt die Angebotsbindung?",
+   "answer": [
+    [
+     "„Solange Vorrat reicht“",
+     "Freizeichnungsklausel"
+    ],
+    [
+     "Bestellung nach Ablauf vereinbarter Frist",
+     "Verspätete Annahme"
+    ],
+    [
+     "Kunde ändert „ab Werk“ zu „frei Haus“",
+     "Ändernde Annahme / neuer Antrag"
+    ],
+    [
+     "Kunde lehnt ab",
+     "Ablehnung"
+    ],
+    [
+     "Widerruf erreicht Empfänger vor oder gleichzeitig mit Antrag",
+     "Rechtzeitiger Widerruf"
+    ]
+   ],
+   "explain": "Ein später erklärter Widerruf widerruft ein bereits wirksam zugegangenes bindendes Angebot nicht einfach.",
+   "source": "Buch S. 34 Aufgabe 4 / S. 310",
+   "bonus": false
+  },
+  {
+   "id": "q013",
+   "chapter": "abschluss",
+   "afb": 2,
+   "type": "match",
+   "prompt": "Buch S. 310 Aufgabe 2: Ordnen Sie die Vertragsschritte zu.",
+   "answer": [
+    [
+     "Bestellung ohne voriges Angebot, Verkäufer macht Gegenangebot",
+     "Neuer Antrag des Verkäufers, keine Annahme"
+    ],
+    [
+     "Bestellung ohne voriges Angebot, Verkäufer liefert",
+     "Antrag Käufer, Annahme Verkäufer"
+    ],
+    [
+     "Verkäuferangebot freibleibend, Käufer bestellt",
+     "Bestellung ist Antrag"
+    ],
+    [
+     "Frist bis 17.08., Bestellung am 18.08., Verkäufer liefert",
+     "Neuer Antrag, Annahme durch Lieferung"
+    ],
+    [
+     "Telefonangebot, Annahme erst am Folgetag",
+     "Späte Erklärung ist neuer Antrag"
+    ],
+    [
+     "Katalog, Käufer bestellt",
+     "Katalog ist Anpreisung, Bestellung Antrag"
+    ]
+   ],
+   "explain": "Eine freibleibende Erklärung bindet regelmäßig nicht wie ein festes Angebot.",
+   "source": "Buch S. 310 Aufgabe 2",
+   "bonus": false
+  },
+  {
+   "id": "q014",
+   "chapter": "abschluss",
+   "afb": 2,
+   "type": "single",
+   "prompt": "Buch S. 310 Aufgabe 3: Ein Privatmann erhält unbestellt Ware und verbraucht sie später. Was gilt im Normalfall nach § 241a BGB?",
+   "answer": "Keine Zahlungspflicht allein durch die unbestellte Lieferung",
+   "explain": "Ausnahmen bestehen etwa bei erkennbar irrtümlicher Zusendung.",
+   "source": "Buch S. 310 Aufgabe 3",
+   "bonus": false,
+   "options": [
+    "Der Verbrauch bewirkt stets einen Kaufvertrag",
+    "Keine Zahlungspflicht allein durch die unbestellte Lieferung",
+    "Schweigen gilt als Annahme"
+   ]
+  },
+  {
+   "id": "q015",
+   "chapter": "abschluss",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Buch S. 310 Aufgabe 5: Ein Industriebetrieb erhält unbestellte Waren aus bestehender Geschäftsbeziehung. Ein Lagerarbeiter verlangt sofortige Rüge, einer will jederzeit zurücksenden, einer verneint grundsätzlich Verträge ohne Bestellung. Beurteilen Sie alle drei Aussagen.",
+   "answer": "Nicht pauschal richtig: Schweigen führt nicht stets zur Annahme. Im kaufmännischen Verkehr sind Ausnahmen z. B. beim kaufmännischen Bestätigungsschreiben oder besonderen Geschäftsbeziehungen zu prüfen. Eine allgemeine automatische Rügepflicht für jede unbestellte Lieferung gibt es nicht; Rücksendungs- und Aufbewahrungspflichten hängen vom konkreten Sachverhalt ab. „Ohne Bestellung niemals Vertrag“ ist ebenfalls zu pauschal, weil Angebote auch anders entstehen und angenommen werden können.",
+   "explain": "Die Altvorlage verallgemeinert die kaufmännischen Schweigeregeln zu stark.",
+   "source": "Buch S. 310 Aufgabe 5 – fachlich präzisiert",
+   "bonus": false
+  },
+  {
+   "id": "q016",
+   "chapter": "abschluss",
+   "afb": 2,
+   "type": "single",
+   "prompt": "Buch S. 310 Aufgabe 4: Telefonisches Angebot, Käufer will erst nächste Woche entscheiden. Bleibt das Angebot ohne Sondervereinbarung bis dahin bindend?",
+   "answer": "Nein",
+   "explain": "§ 147 Abs. 1 BGB.",
+   "source": "Buch S. 310 Aufgabe 4a",
+   "bonus": false,
+   "options": [
+    "Ja",
+    "Nein"
+   ]
+  },
+  {
+   "id": "q017",
+   "chapter": "abschluss",
+   "afb": 2,
+   "type": "match",
+   "prompt": "Buch S. 310 Aufgabe 4: Bestimmen Sie die rechtliche Folge.",
+   "answer": [
+    [
+     "Faxangebot; Widerruf erst Stunden nach Zugang per Telefon",
+     "Angebot bleibt grundsätzlich bindend"
+    ],
+    [
+     "Angebot mit Zusatz „ohne Obligo“",
+     "Keine normale Bindungswirkung"
+    ],
+    [
+     "Telefonisches Angebot nach Kundenanfrage",
+     "Antrag möglich, sofortige Annahme"
+    ],
+    [
+     "Angebot über fremde Lampe, Eigentum ungeklärt",
+     "Angebot kann trotz fremden Eigentums wirksam sein"
+    ],
+    [
+     "Bestand von Spezialwein nach Vertragsschluss zerstört",
+     "Leistungsstörung prüfen, nicht rückwirkend Angebot unwirksam"
+    ]
+   ],
+   "explain": "Das Eigentum des Verkäufers ist keine Voraussetzung für einen wirksamen Antrag.",
+   "source": "Buch S. 310 Aufgabe 4b–g",
+   "bonus": false
+  },
+  {
+   "id": "q018",
+   "chapter": "abschluss",
+   "afb": 1,
+   "type": "tf",
+   "prompt": "Eine Schaufensterauslage ist regelmäßig ein rechtlich bindendes Angebot.",
+   "answer": false,
+   "explain": "Sie ist üblicherweise eine invitatio ad offerendum.",
+   "source": "SCORM Zustandekommen",
+   "bonus": false
+  },
+  {
+   "id": "q019",
+   "chapter": "abschluss",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Roter Faden: Mira bietet dem Schulverein 20 refurbished Mäuse für 12 € je Stück an. Der Verein antwortet: „15 Stück für 10 €“. Mira liefert kommentarlos 15 Stück. Analysieren Sie den Vertragsschluss.",
+   "answer": "Die veränderte Antwort ist ein neuer Antrag des Vereins über 15 Stück zu je 10 € (§ 150 Abs. 2 BGB). Die anschließende Lieferung kann als konkludente Annahme dieses neuen Antrags gewertet werden. Ein Vertrag über 15 × 10 € = 150 € kommt dann zustande.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "Zusatz Praxisfall",
+   "bonus": false
+  },
+  {
+   "id": "q020",
+   "chapter": "inhalt",
+   "afb": 1,
+   "type": "match",
+   "prompt": "Ordnen Sie den Vertragsbestandteilen ihre Bedeutung zu.",
+   "answer": [
+    [
+     "Menge",
+     "Stückzahl oder Gewicht"
+    ],
+    [
+     "Beschaffenheit",
+     "Eigenschaften der Ware"
+    ],
+    [
+     "Lieferzeit",
+     "Zeitpunkt oder Zeitraum der Lieferung"
+    ],
+    [
+     "Skonto",
+     "Nachlass bei fristgerechter Zahlung"
+    ],
+    [
+     "Gerichtsstand",
+     "Örtliche gerichtliche Zuständigkeit"
+    ]
+   ],
+   "explain": "Eine Gerichtsstandsvereinbarung ist nicht in jedem Verbrauchervertrag wirksam.",
+   "source": "SCORM Inhalte / Buch S. 34",
+   "bonus": false
+  },
+  {
+   "id": "q021",
+   "chapter": "inhalt",
+   "afb": 1,
+   "type": "single",
+   "prompt": "Was bedeutet „frei Haus“ in einer vereinbarten Lieferklausel?",
+   "answer": "Verkäufer trägt die vereinbarten Beförderungskosten bis zum Empfänger",
+   "explain": "Die Lieferkostenklausel allein regelt nicht zwingend den gesetzlichen Gefahrübergang.",
+   "source": "Präsentation Vertragsinhalte",
+   "bonus": false,
+   "options": [
+    "Verkäufer trägt die vereinbarten Beförderungskosten bis zum Empfänger",
+    "Käufer trägt alle Versandkosten",
+    "Die Ware ist kostenlos"
+   ]
+  },
+  {
+   "id": "q022",
+   "chapter": "inhalt",
+   "afb": 2,
+   "type": "match",
+   "prompt": "Ordnen Sie die kaufmännischen Lieferklauseln zu.",
+   "answer": [
+    [
+     "Ab Werk",
+     "Käufer trägt Transportkosten ab Werk"
+    ],
+    [
+     "Frachtfrei",
+     "Verkäufer trägt Fracht bis benannter Empfangsstation"
+    ],
+    [
+     "Frei Haus",
+     "Verkäufer trägt vereinbarte Zustellung bis Empfänger"
+    ],
+    [
+     "Unfrei",
+     "Empfänger übernimmt die Beförderungskosten"
+    ]
+   ],
+   "explain": "Kosten- und Gefahrtragung sind getrennt zu prüfen.",
+   "source": "Präsentation Vertragsinhalte",
+   "bonus": false
+  },
+  {
+   "id": "q023",
+   "chapter": "inhalt",
+   "afb": 2,
+   "type": "number",
+   "prompt": "LoopLab bestellt 80 Kartons zu 3,50 € je Stück und erhält 10 % Rabatt. Welcher Nettowarenpreis ergibt sich in Euro?",
+   "answer": 252,
+   "explain": "Rechenweg: 80 × 3,50 € = 280,00 €; Rabatt 10 % = 28,00 €; 280,00 € − 28,00 € = 252,00 €.",
+   "source": "Zusatz Rechnen",
+   "bonus": false
+  },
+  {
+   "id": "q024",
+   "chapter": "inhalt",
+   "afb": 2,
+   "type": "number",
+   "prompt": "Die Rechnung lautet 1.200,00 €. Bei Zahlung innerhalb von zehn Tagen gelten 2 % Skonto. Wie viel wird überwiesen (in Euro)?",
+   "answer": 1176,
+   "explain": "Rechenweg: 2 % × 1.200 € = 24 €; 1.200 € − 24 € = 1.176 €.",
+   "source": "PDF Aufgabe 9 – Skontobedingung übertragen",
+   "bonus": false
+  },
+  {
+   "id": "q025",
+   "chapter": "inhalt",
+   "afb": 2,
+   "type": "text",
+   "prompt": "Buch S. 34 Aufgabe 6: Erläutern Sie die Rolle von Beschaffenheit, Verpackung, Preisnachlässen, Erfüllungsort und Gerichtsstand bei fehlender Vereinbarung.",
+   "answer": "Beschaffenheit richtet sich nach §§ 434, 243 BGB und Umständen; Verpackungskosten können abhängig von Vertragsauslegung und Art der Verpackung zugeordnet sein, kein ausnahmsloser pauschaler Satz. Rabatt/Skonto erfordern eine Grundlage. Erfüllungsort nach § 269 BGB; Gerichtsstand vorrangig nach ZPO (insbesondere §§ 12, 13, 17, 29, 38), nicht automatisch stets der Erfüllungsort.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "Buch S. 34 Aufgabe 6 – aktualisiert",
+   "bonus": false
+  },
+  {
+   "id": "q026",
+   "chapter": "inhalt",
+   "afb": 2,
+   "type": "match",
+   "prompt": "PDF-Aufgabe 9: Lesen Sie die Angaben aus dem Angebot der Hoch AG (Köln) an Bernd Mauer (Bonn) und ordnen Sie zu.",
+   "answer": [
+    [
+     "Baustahlmatten 200 × 350 cm",
+     "Warenbeschreibung"
+    ],
+    [
+     "80 € pro Quadratmeter",
+     "Preisgrundlage"
+    ],
+    [
+     "„solange Vorrat reicht“",
+     "Mengenbezogene Freizeichnung"
+    ],
+    [
+     "10 % Rabatt ab mehr als 100 Matten",
+     "Mengenrabatt"
+    ],
+    [
+     "30 Tage netto oder 2 % Skonto in 10 Tagen",
+     "Zahlungsbedingungen"
+    ],
+    [
+     "Lieferung innerhalb 1 Woche nach Bestellung",
+     "Lieferzeit"
+    ],
+    [
+     "frei Bahnhof Bonn-Beuel",
+     "Frachtkostenregelung"
+    ]
+   ],
+   "explain": "Das historische Dokument enthält uneinheitliche Daten (Datumsfeld 20.04.02; Bestellfall 3. April). Die Bedingungen werden als separate Sachverhalte geprüft.",
+   "source": "PDF Aufgabe 9a / Angebotsabbildung S. 5",
+   "bonus": false
+  },
+  {
+   "id": "q027",
+   "chapter": "inhalt",
+   "afb": 3,
+   "type": "text",
+   "prompt": "PDF Aufgabe 9a: Welche Regelung im Angebot der Hoch AG schränkt die Verbindlichkeit ein? Erklären Sie, warum die übrigen Angaben nicht automatisch ebenso unverbindlich sind.",
+   "answer": "Die Klausel „solange Vorrat reicht“ schränkt die Bindung bezüglich lieferbarer Menge ein. Die weiteren Angaben wie Stückpreis, Rabatt, Skonto oder Lieferbedingungen sind nach dem objektiven Erklärungsinhalt zu beurteilen; die Mengenfreizeichnung hebt nicht automatisch sämtliche Vertragsbedingungen auf.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "PDF Aufgabe 9a",
+   "bonus": false
+  },
+  {
+   "id": "q028",
+   "chapter": "inhalt",
+   "afb": 2,
+   "type": "single",
+   "prompt": "Im Angebot steht „2 % Skonto bei Zahlung innerhalb von zehn Tagen, sonst 30 Tage netto“. Was ist richtig?",
+   "answer": "Innerhalb von zehn Tagen dürfen 2 % vom maßgeblichen Rechnungsbetrag abgezogen werden",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "SCORM Vertragsinhalte",
+   "bonus": false,
+   "options": [
+    "Nach zehn Tagen kostet die Ware 2 % mehr als vereinbart",
+    "Innerhalb von zehn Tagen dürfen 2 % vom maßgeblichen Rechnungsbetrag abgezogen werden",
+    "Skonto und Rabatt sind dasselbe"
+   ]
+  },
+  {
+   "id": "q029",
+   "chapter": "inhalt",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Buch S. 35 Aufgabe 7: Erstellen Sie die Kerndaten eines Kaufvertrags zwischen Erwin Redlich (Ludwigsburg) und Manuela Huber (Stuttgart) über einen Ford Fiesta, Erstzulassung 06.04.2017, 24.900 km, Kennzeichen LB-R 122, Fahrgestellnummer Y 23 651, Ausstattung und 7.800 €. Berücksichtigen Sie die Unfallfreiheit.",
+   "answer": "Verkäufer: Erwin Redlich, Mörikestraße 23, 71642 Ludwigsburg. Käuferin: Manuela Huber, Weimarstraße 34, 70190 Stuttgart. Ford Fiesta; FIN Y 23 651; LB-R 122; 24.900 km; EZ 06.04.2017; Stereoradio/CD/MP3, Klimaanlage, Bordcomputer; Kaufpreis 7.800 €; Erklärung des Verkäufers: keine Unfallschäden. Datum, Unterschriften, Übergabe und Zahlungsmodus sind zu ergänzen. Gewährleistungsausschluss kann je nach Parteien und Umständen unwirksam oder begrenzt sein.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "Buch S. 35 Aufgabe 7 – rechtlich ergänzt",
+   "bonus": false
+  },
+  {
+   "id": "q030",
+   "chapter": "inhalt",
+   "afb": 1,
+   "type": "tf",
+   "prompt": "Buch S. 35 Aufgabe 8: Ein Kaufvertrag über ein gebrauchtes Auto kann grundsätzlich auch mündlich wirksam geschlossen werden.",
+   "answer": true,
+   "explain": "Grundsatz der Formfreiheit, abweichende Spezialfälle beachten.",
+   "source": "Buch S. 35 Aufgabe 8",
+   "bonus": false
+  },
+  {
+   "id": "q031",
+   "chapter": "inhalt",
+   "afb": 2,
+   "type": "multi",
+   "prompt": "Buch S. 35 Aufgabe 9: Welche Gründe sprechen für einen schriftlichen Kaufvertrag?",
+   "answer": [
+    "Abmachungen beweisbar",
+    "Missverständnisse vermeidbar",
+    "Zustand und Zubehör dokumentierbar"
+   ],
+   "explain": "Schriftform ist häufig beweispraktisch sinnvoll, nicht generell Wirksamkeitsvoraussetzung.",
+   "source": "Buch S. 35 Aufgabe 9",
+   "bonus": false,
+   "options": [
+    "Abmachungen beweisbar",
+    "Missverständnisse vermeidbar",
+    "Nur schriftliche Kaufverträge sind wirksam",
+    "Zustand und Zubehör dokumentierbar"
+   ]
+  },
+  {
+   "id": "q032",
+   "chapter": "inhalt",
+   "afb": 3,
+   "type": "number",
+   "prompt": "PDF Aufgabe 9: Die Hoch AG verkauft Baustahlmatten über 36.000 € (vor Rabatt und Steuer). Angenommen 10 % Rabatt werden wirksam vereinbart: Wie hoch ist der reduzierte Betrag vor Umsatzsteuer?",
+   "answer": 32400,
+   "explain": "Rechenweg: 36.000 € × 0,10 = 3.600 € Rabatt; 36.000 € − 3.600 € = 32.400 €. Der historische Fall nennt 36.000 € Gesamtwert ohne eindeutige Umsatzsteuerbasis; deshalb explizit als Rechenannahme formuliert.",
+   "source": "PDF Aufgabe 9d – Rechenerweiterung",
+   "bonus": false
+  },
+  {
+   "id": "q033",
+   "chapter": "ort",
+   "afb": 1,
+   "type": "match",
+   "prompt": "Ordnen Sie die Begriffe zu.",
+   "answer": [
+    [
+     "Holschuld",
+     "Schuldner stellt am eigenen Leistungsort bereit"
+    ],
+    [
+     "Bringschuld",
+     "Schuldner bietet Leistung am Empfängerort an"
+    ],
+    [
+     "Schickschuld",
+     "Schuldner versendet ordnungsgemäß an Empfänger"
+    ],
+    [
+     "Gefahrübergang",
+     "Zeitpunkt, ab dem zufällige Beschädigung rechtlich dem Käufer zugerechnet wird"
+    ]
+   ],
+   "explain": "Welcher Leistungstyp gilt, hängt von Vertrag und Rechtslage ab.",
+   "source": "Präsentation Erfüllungsort",
+   "bonus": false
+  },
+  {
+   "id": "q034",
+   "chapter": "ort",
+   "afb": 2,
+   "type": "text",
+   "prompt": "PDF Aufgabe 7: Grüner und Bunt (Weimar) kauft vier Kopiergeräte bei 5-M (Leipzig). Erfüllungsort wurde nicht vereinbart. Bestimmen Sie den Leistungsort für Ware und Zahlung unter der im Fall vorausgesetzten üblichen Waren-Holschuld.",
+   "answer": "Ware: Leipzig (Sitz Verkäufer). Zahlung: Leistungsort beim zahlungspflichtigen Käufer in Weimar, wobei § 270 BGB die Übermittlungs- und Verzögerungsrisiken sowie Kosten besonders regelt. Nicht mit dem Erfolgsort des Geldeingangs verwechseln.",
+   "explain": "Die alten Lehrbuchlösungen nennen Geldschulden pauschal „Schickschulden“; diese Vereinfachung bedarf Differenzierung.",
+   "source": "PDF Aufgabe 7",
+   "bonus": false
+  },
+  {
+   "id": "q035",
+   "chapter": "ort",
+   "afb": 2,
+   "type": "text",
+   "prompt": "Präsentationsfall: Tretmöller AG (Chemnitz) bestellt bei Möbelhaus Bautzen Schreibtischstühle mit ausdrücklich vereinbarter Lieferung an die Zweigstelle Dresden. Ermitteln Sie den Leistungsort der Warenlieferung.",
+   "answer": "Bei ausdrücklich als Bringschuld vereinbarter Lieferung: Dresden. Die genaue rechtliche Einordnung kann von der konkreten Lieferklausel abhängen.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "Präsentation Erfüllungsort",
+   "bonus": false
+  },
+  {
+   "id": "q036",
+   "chapter": "ort",
+   "afb": 3,
+   "type": "text",
+   "prompt": "PDF Aufgabe 6: Paul Oster (Köln) hat mit einem geschäftlichen Kunden Abel (München) wirksam Köln als Erfüllungsort vereinbart. Fälligkeit 8. Mai, Übergabe an Spedition in Köln am 8. Mai, Ankunft 12. Mai. War Oster rechtzeitig?",
+   "answer": "Unter der ausdrücklich vorausgesetzten wirksamen Schickschuld mit Leistungsort Köln hat Oster bei ordnungsgemäßer Übergabe am 8. Mai seine Leistungshandlung rechtzeitig erbracht. Eine andere Lieferpflicht oder besondere Vereinbarung könnte zu anderer Bewertung führen.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "PDF Aufgabe 6",
+   "bonus": false
+  },
+  {
+   "id": "q037",
+   "chapter": "ort",
+   "afb": 2,
+   "type": "match",
+   "prompt": "PDF Zusatzaufgabe 8: Betriebswirtschaftlicher Versendungskauf zwischen Unternehmen, Erfüllungsort Bremen. Ordnen Sie die Fälle zu.",
+   "answer": [
+    [
+     "Drehmaschine wird ordnungsgemäß der Bahn übergeben und unterwegs zufällig beschädigt",
+     "Transportrisiko grundsätzlich Käufer (§ 447 BGB)"
+    ],
+    [
+     "Drehmaschine wird bereits vor ordnungsgemäßer Übergabe beim Verladen beschädigt",
+     "Risiko grundsätzlich Verkäufer"
+    ]
+   ],
+   "explain": "Vorausgesetzt: kein Verbrauchsgüterkauf und keine abweichenden Vertragsbedingungen.",
+   "source": "PDF Zusatzaufgabe 8",
+   "bonus": false
+  },
+  {
+   "id": "q038",
+   "chapter": "ort",
+   "afb": 2,
+   "type": "single",
+   "prompt": "LoopLab verschickt als Unternehmer ein Tablet an eine Privatkundin. Das Paket geht beim beauftragten Paketdienst verloren. Wer trägt bei gewöhnlichem Verbrauchsgüterkauf grundsätzlich die Versandgefahr?",
+   "answer": "LoopLab",
+   "explain": "§ 475 Abs. 2 BGB schränkt § 447 BGB stark ein.",
+   "source": "Präsentation Gefahrübergang – aktualisiert",
+   "bonus": false,
+   "options": [
+    "Privatkundin",
+    "LoopLab",
+    "Immer der Paketdienst allein"
+   ]
+  },
+  {
+   "id": "q039",
+   "chapter": "ort",
+   "afb": 2,
+   "type": "single",
+   "prompt": "PDF Aufgabe 9d: Angebotsbedingt soll innerhalb einer Woche geliefert werden; im B2B-Fall ist Köln wirksam als Leistungsort festgelegt. Die Übergabe an die Bahn erfolgt am 8. April nach Bestellung am 3. April. Rechtzeitig?",
+   "answer": "Ja, bei vereinbarter Schickschuld und ordnungsgemäßer Übergabe",
+   "explain": "Die Übergabe erfolgte fünf Tage nach Bestellung. Die historischen Dokumentdaten weichen voneinander ab, daher gilt der im Text genannte Aprilfall.",
+   "source": "PDF Aufgabe 9d",
+   "bonus": false,
+   "options": [
+    "Ja, bei vereinbarter Schickschuld und ordnungsgemäßer Übergabe",
+    "Nein, weil Ankunft erst am 14. April"
+   ]
+  },
+  {
+   "id": "q040",
+   "chapter": "ort",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Gerichtsstand: Ein Privatkunde aus Dresden verklagt einen gewerblichen Verkäufer aus München. Darf der Verkäufer allein aufgrund einer AGB-Klausel immer München als Gerichtsstand bestimmen?",
+   "answer": "Nein. Der allgemeine Gerichtsstand richtet sich grundsätzlich nach Wohn- bzw. Geschäftssitz des Beklagten (§§ 12, 13, 17 ZPO), daneben können besondere Gerichtsstände eingreifen. Gerichtsstandsvereinbarungen sind insbesondere nach § 38 ZPO begrenzt; bloße AGB reichen gegenüber Verbrauchern in der Regel nicht.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "Präsentation Gerichtsstand – korrigiert",
+   "bonus": false
+  },
+  {
+   "id": "q041",
+   "chapter": "ort",
+   "afb": 2,
+   "type": "match",
+   "prompt": "Welche Frage passt zu welchem Rechtsgebiet?",
+   "answer": [
+    [
+     "Wo muss der Verkäufer leisten?",
+     "Erfüllungsort / § 269 BGB"
+    ],
+    [
+     "Wer trägt Verlust beim Versand?",
+     "Gefahrtragung / §§ 446, 447, 475 BGB"
+    ],
+    [
+     "Wo darf geklagt werden?",
+     "Gerichtsstand / ZPO"
+    ],
+    [
+     "Wer trägt die Paketkosten?",
+     "Vertragliche Versandkostenregelung"
+    ]
+   ],
+   "explain": "Die vier Fragen sind getrennt zu beantworten.",
+   "source": "Zusatz Abgrenzung",
+   "bonus": false
+  },
+  {
+   "id": "q042",
+   "chapter": "ort",
+   "afb": 1,
+   "type": "tf",
+   "prompt": "Der vereinbarte Frachtkostenträger trägt deshalb immer automatisch auch die Gefahr des Untergangs.",
+   "answer": false,
+   "explain": "Frachtkostenregel und Gefahrübergang können auseinanderfallen.",
+   "source": "SCORM Vertragsinhalte",
+   "bonus": false
+  },
+  {
+   "id": "q043",
+   "chapter": "ort",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Bonus: Ein Online-Händler übergibt Ware an einen von ihm vorgeschlagenen Dienstleister. Die Verbraucherin erhält ein beschädigtes Paket. Entwickeln Sie eine begründete Empfehlung, ohne automatisch § 447 BGB anzuwenden.",
+   "answer": "Bei Verbrauchsgüterkauf trägt der Unternehmer die Transportgefahr grundsätzlich bis Übergabe (§ 475 Abs. 2 BGB). Verbraucherin sollte Mangel dokumentieren und Gewährleistungsrechte beim Verkäufer geltend machen. Anders kann es bei selbstständiger Wahl eines nicht benannten Transporteurs durch Verbraucher sein.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "Bonus",
+   "bonus": true
+  },
+  {
+   "id": "q044",
+   "chapter": "pflichten",
+   "afb": 1,
+   "type": "single",
+   "prompt": "Welche Pflicht folgt für den Verkäufer aus § 433 Abs. 1 BGB?",
+   "answer": "Sache übergeben und Eigentum verschaffen",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "Buch S. 33 Aufgabe 3",
+   "bonus": false,
+   "options": [
+    "Preis zahlen",
+    "Sache übergeben und Eigentum verschaffen",
+    "Sache abnehmen"
+   ]
+  },
+  {
+   "id": "q045",
+   "chapter": "pflichten",
+   "afb": 1,
+   "type": "match",
+   "prompt": "Buch S. 310 Aufgabe 1: Ordnen Sie Verpflichtungs- und Erfüllungsgeschäft zu.",
+   "answer": [
+    [
+     "Verkäuferangebot und Bestellung",
+     "Verpflichtungsgeschäft"
+    ],
+    [
+     "Bestellung und Bestellbestätigung",
+     "Verpflichtungsgeschäft"
+    ],
+    [
+     "Verkäufer liefert die Ware",
+     "Erfüllungsgeschäft"
+    ],
+    [
+     "Käufer bezahlt Rechnung",
+     "Erfüllungsgeschäft"
+    ]
+   ],
+   "explain": "Trennungsprinzip: Verpflichtung und Verfügung sind rechtlich zu unterscheiden.",
+   "source": "Buch S. 310 Aufgabe 1",
+   "bonus": false
+  },
+  {
+   "id": "q046",
+   "chapter": "pflichten",
+   "afb": 2,
+   "type": "match",
+   "prompt": "Buch S. 33 Aufgabe 3: Verteilen Sie die Pflichten.",
+   "answer": [
+    [
+     "Sache mangelfrei übergeben",
+     "Verkäuferpflicht"
+    ],
+    [
+     "Eigentum an der Sache verschaffen",
+     "Verkäuferpflicht"
+    ],
+    [
+     "Vereinbarten Preis zahlen",
+     "Käuferpflicht"
+    ],
+    [
+     "Sache abnehmen",
+     "Käuferpflicht"
+    ]
+   ],
+   "explain": "Die Zahlung kann zeitlich vor oder nach der Übergabe erfolgen.",
+   "source": "Buch S. 33 Aufgabe 3 / Präsentation",
+   "bonus": false
+  },
+  {
+   "id": "q047",
+   "chapter": "pflichten",
+   "afb": 1,
+   "type": "tf",
+   "prompt": "Ein abgeschlossener Kaufvertrag führt bei beweglichen Sachen immer sofort und automatisch zum Eigentumsübergang.",
+   "answer": false,
+   "explain": "Verpflichtungsgeschäft und Eigentumsübertragung sind getrennte Vorgänge.",
+   "source": "Präsentation Eigentumsübertragung – präzisiert",
+   "bonus": false
+  },
+  {
+   "id": "q048",
+   "chapter": "pflichten",
+   "afb": 2,
+   "type": "text",
+   "prompt": "LoopLab verkauft einem Kunden eine gebrauchte Spielekonsole gegen Rechnung, Liefertermin morgen. Unterscheiden Sie Ansprüche aus Vertrag und tatsächliche Erfüllung.",
+   "answer": "Vertragsschluss: LoopLab schuldet mangelfreie Übergabe und Eigentumsverschaffung, Kunde Abnahme und Zahlung. Erfüllung: tatsächliche Übergabe/Einigung über Eigentumsübertragung sowie Zahlung – möglicherweise an unterschiedlichen Tagen.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "SCORM Pflichten",
+   "bonus": false
+  },
+  {
+   "id": "q049",
+   "chapter": "pflichten",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Ein Kunde bezahlt vorab 200 € für einen Laptop. LoopLab liefert nicht. Erklären Sie, weshalb die Zahlung allein die Eigentumsübertragung am Laptop nicht beweist und welche Erfüllungsansprüche bestehen.",
+   "answer": "Die Zahlung erfüllt die Käuferpflicht. Der Anspruch auf Übergabe und Verschaffung des Eigentums nach § 433 Abs. 1 BGB bleibt bestehen, sofern nicht anderweitig erfüllt. Eigentumsübertragung beweglicher Sachen erfolgt grundsätzlich durch dingliche Einigung und Übergabe (§ 929 BGB), vorbehaltlich Sonderformen.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "Zusatz Transfer",
+   "bonus": false
+  },
+  {
+   "id": "q050",
+   "chapter": "maengel",
+   "afb": 1,
+   "type": "match",
+   "prompt": "Ordnen Sie die Mangelarten zu.",
+   "answer": [
+    [
+     "Falsches Modell geliefert",
+     "Sachmangel"
+    ],
+    [
+     "Laptop-Akku defekt",
+     "Sachmangel"
+    ],
+    [
+     "Eigentumsrecht eines Dritten beeinträchtigt Käufer",
+     "Rechtsmangel"
+    ],
+    [
+     "Montageanleitung sachlich falsch",
+     "Möglicher Sachmangel"
+    ]
+   ],
+   "explain": "Bei § 434 BGB werden vereinbarte, objektive und Montageanforderungen geprüft.",
+   "source": "Präsentation Sachmangelarten",
+   "bonus": false
+  },
+  {
+   "id": "q051",
+   "chapter": "maengel",
+   "afb": 2,
+   "type": "single",
+   "prompt": "LoopLab wirbt konkret mit „wasserfest nach IP67“, das gelieferte Gerät erfüllt die zugesagte Eigenschaft nicht. Was liegt nahe?",
+   "answer": "Sachmangel",
+   "explain": "Beschaffenheitsangaben und öffentliche Äußerungen können rechtlich relevant sein.",
+   "source": "Präsentation Sachmängel",
+   "bonus": false,
+   "options": [
+    "Sachmangel",
+    "Kein Mangel, weil Werbung irrelevant",
+    "Immer Rechtsmangel"
+   ]
+  },
+  {
+   "id": "q052",
+   "chapter": "maengel",
+   "afb": 1,
+   "type": "tf",
+   "prompt": "Eine berechtigte Rechtsposition eines Dritten an der Kaufsache kann einen Rechtsmangel begründen.",
+   "answer": true,
+   "explain": "§ 435 BGB.",
+   "source": "Präsentation Rechtsmängel",
+   "bonus": false
+  },
+  {
+   "id": "q053",
+   "chapter": "maengel",
+   "afb": 2,
+   "type": "match",
+   "prompt": "Prüfen Sie die Fälle aus der Präsentation.",
+   "answer": [
+    [
+     "Statt Birnen werden Äpfel geliefert",
+     "Falschlieferung / Sachmangel"
+    ],
+    [
+     "Statt 30 werden 20 Stück geliefert",
+     "Mengenabweichung / Sachmangel"
+    ],
+    [
+     "Montageanleitung führt bei korrekter Befolgung zum Defekt",
+     "Montagebezogener Sachmangel"
+    ],
+    [
+     "Ein Dritter hat ein dem Käufer entgegenstehendes Recht",
+     "Rechtsmangel"
+    ],
+    [
+     "Kunde montiert entgegen korrekter Anleitung falsch",
+     "Nicht allein deshalb Verkäufermangel"
+    ]
+   ],
+   "explain": "Ein Sachmangel setzt grundsätzlich ein Abweichen der Sache von maßgeblichen Anforderungen voraus.",
+   "source": "Präsentation Sachmängel",
+   "bonus": false
+  },
+  {
+   "id": "q054",
+   "chapter": "maengel",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Ein Smartphone wurde mit 256 GB Speicher vereinbart, geliefert werden 128 GB. Formulieren Sie eine strukturierte Sachmangelprüfung.",
+   "answer": "Vereinbarte Beschaffenheit: 256 GB. Tatsächliche Beschaffenheit: 128 GB. Abweichung von subjektiven Anforderungen des § 434 BGB; damit Sachmangel zum maßgeblichen Zeitpunkt, soweit keine wirksame Abweichungsvereinbarung.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "Zusatz Transfer",
+   "bonus": false
+  },
+  {
+   "id": "q055",
+   "chapter": "maengel",
+   "afb": 2,
+   "type": "single",
+   "prompt": "Ein Händler verkauft eine Sache, an der ein Dritter ein entgegenstehendes Nutzungsrecht geltend machen kann. Einordnung?",
+   "answer": "Rechtsmangel",
+   "explain": "§ 435 BGB.",
+   "source": "Präsentation Rechtsmängel",
+   "bonus": false,
+   "options": [
+    "Rechtsmangel",
+    "Ausschließlich Sachmangel",
+    "Nie ein Mangel"
+   ]
+  },
+  {
+   "id": "q056",
+   "chapter": "maengel",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Bonus: Das LoopLab-Tablet hat nach einem Update eine zugesagte Funktion verloren. Prüfen Sie, welche Informationen für die Mangelbeurteilung fehlen.",
+   "answer": "Zu prüfen: Vereinbarte Funktion, Art des Produkts (Ware mit digitalen Elementen), Updatepflichten nach §§ 475b, 475c BGB, maßgeblicher Zeitraum, Ursache, Anzeige, Zeitpunkt des Gefahrübergangs und etwaige Abweichungsvereinbarungen. Ohne diese Angaben ist die Rechtsfolge nicht abschließend bestimmbar.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "Bonus",
+   "bonus": true
+  },
+  {
+   "id": "q057",
+   "chapter": "rechte",
+   "afb": 1,
+   "type": "single",
+   "prompt": "Wer kann grundsätzlich die Art der Nacherfüllung wählen?",
+   "answer": "Käufer, vorbehaltlich gesetzlicher Grenzen",
+   "explain": "§ 439 Abs. 1 und Abs. 4 BGB.",
+   "source": "Präsentation Gewährleistung – korrigiert",
+   "bonus": false,
+   "options": [
+    "Verkäufer frei nach Belieben",
+    "Käufer, vorbehaltlich gesetzlicher Grenzen",
+    "Paketdienst"
+   ]
+  },
+  {
+   "id": "q058",
+   "chapter": "rechte",
+   "afb": 1,
+   "type": "match",
+   "prompt": "Ordnen Sie Käuferrechte zu.",
+   "answer": [
+    [
+     "Reparatur",
+     "Nachbesserung"
+    ],
+    [
+     "Neue mangelfreie Sache",
+     "Ersatzlieferung"
+    ],
+    [
+     "Herabsetzung des Kaufpreises",
+     "Minderung"
+    ],
+    [
+     "Rückabwicklung des Vertrags",
+     "Rücktritt"
+    ],
+    [
+     "Ausgleich ersatzfähigen Schadens",
+     "Schadensersatz"
+    ]
+   ],
+   "explain": "Rechtsfolgen haben unterschiedliche Voraussetzungen.",
+   "source": "Präsentation Gewährleistung",
+   "bonus": false
+  },
+  {
+   "id": "q059",
+   "chapter": "rechte",
+   "afb": 2,
+   "type": "tf",
+   "prompt": "Nach exakt zwei erfolglosen Reparaturen darf der Käufer in jedem Fall und ohne Ausnahme sofort zurücktreten.",
+   "answer": false,
+   "explain": "Die Voraussetzungen sind differenziert zu prüfen; gesetzlich keine universelle Zwei-Versuche-Regel.",
+   "source": "Präsentation Gewährleistung – korrigiert",
+   "bonus": false
+  },
+  {
+   "id": "q060",
+   "chapter": "rechte",
+   "afb": 2,
+   "type": "match",
+   "prompt": "Welche Maßnahme passt zur Situation?",
+   "answer": [
+    [
+     "Mangelhaftes neues Headset, Kunde verlangt Austausch",
+     "Nacherfüllung"
+    ],
+    [
+     "Nach rechtlich eröffnetem Minderungsrecht will Käufer Ware behalten",
+     "Minderung"
+    ],
+    [
+     "Nach erfüllten Rücktrittsvoraussetzungen Ware gegen Kaufpreis zurück",
+     "Rücktritt"
+    ],
+    [
+     "Zusätzlich konkret ersatzfähiger Schaden",
+     "Schadensersatz gesondert prüfen"
+    ]
+   ],
+   "explain": "Die Anspruchsvoraussetzungen sind jeweils gesondert zu prüfen.",
+   "source": "SCORM Gewährleistungsrechte",
+   "bonus": false
+  },
+  {
+   "id": "q061",
+   "chapter": "rechte",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Ein Kunde reklamiert ein mangelhaftes Tablet. LoopLab sagt: „Wir entscheiden allein zwischen Reparatur und Ersatz.“ Beurteilen Sie diese Aussage rechtlich.",
+   "answer": "Die Aussage ist in dieser Pauschalität falsch: Grundsätzlich wählt der Käufer die Art der Nacherfüllung (§ 439 Abs. 1 BGB). Verkäufer können die gewählte Art unter gesetzlichen Voraussetzungen insbesondere wegen Unverhältnismäßigkeit verweigern (§ 439 Abs. 4 BGB).",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "Präsentation Gewährleistung – aktualisiert",
+   "bonus": false
+  },
+  {
+   "id": "q062",
+   "chapter": "rechte",
+   "afb": 2,
+   "type": "number",
+   "prompt": "Ein mangelhafter Artikel kostete 150 €. Eine wirksam vereinbarte Preisminderung beträgt 20 %. Wie hoch ist der reduzierte Preis in Euro?",
+   "answer": 120,
+   "explain": "Rechenweg: 150 € × 20 % = 30 €; 150 € − 30 € = 120 €. Die rechtliche Minderungshöhe richtet sich grundsätzlich nach § 441 Abs. 3 BGB; 20 % sind hier eine ausdrücklich vereinbarte Rechenannahme.",
+   "source": "Zusatz Rechnen",
+   "bonus": false
+  },
+  {
+   "id": "q063",
+   "chapter": "rechte",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Erstellen Sie eine begründete Reihenfolge der Prüfung bei einem mangelhaften Kaufgegenstand und nennen Sie Ausnahmen vom Vorrang der Nacherfüllung.",
+   "answer": "1. Vertrag und Mangel bei Gefahrübergang; 2. Nacherfüllung (§§ 437 Nr. 1, 439); 3. Voraussetzungen für Rücktritt/Minderung bzw. Schadensersatz prüfen (z. B. erfolglose Frist, Verweigerung, Fehlschlagen oder gesetzliche Entbehrlichkeit). Ausnahmen u. a. §§ 440, 475d BGB.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "SCORM Gewährleistungsrechte",
+   "bonus": false
+  },
+  {
+   "id": "q064",
+   "chapter": "rechte",
+   "afb": 1,
+   "type": "tf",
+   "prompt": "Der Verkäufer muss erforderliche Transport-, Wege-, Arbeits- und Materialkosten der Nacherfüllung grundsätzlich tragen.",
+   "answer": true,
+   "explain": "§ 439 Abs. 2 BGB.",
+   "source": "Präsentation Gewährleistung",
+   "bonus": false
+  },
+  {
+   "id": "q065",
+   "chapter": "rechte",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Bonus: Eine Verbraucherin entdeckt bei einem im Internet bestellten Gerät einen Mangel. Unterscheiden Sie Widerruf und Gewährleistung.",
+   "answer": "Widerruf beim Fernabsatz setzt entsprechende Voraussetzungen und Fristen nach §§ 312g, 355 BGB voraus und benötigt grundsätzlich keinen Mangel. Gewährleistung knüpft an Mängel und §§ 437 ff. BGB an; die Nacherfüllung steht häufig an erster Stelle. Beide Rechtsregime dürfen nicht vermischt werden.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "Bonus",
+   "bonus": true
+  },
+  {
+   "id": "q066",
+   "chapter": "test",
+   "afb": 1,
+   "type": "single",
+   "prompt": "Welche Aussage beschreibt den Vertragsschluss?",
+   "answer": "Zwei übereinstimmende Willenserklärungen",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "Abschlusstest",
+   "bonus": false,
+   "options": [
+    "Zwei übereinstimmende Willenserklärungen",
+    "Eine Anzeige allein",
+    "Übergabe allein immer"
+   ]
+  },
+  {
+   "id": "q067",
+   "chapter": "test",
+   "afb": 2,
+   "type": "single",
+   "prompt": "Verkäufer bietet 100 Stück an; Käufer akzeptiert nur 80. Folge?",
+   "answer": "Neuer Antrag",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "Abschlusstest",
+   "bonus": false,
+   "options": [
+    "Sofort Vertrag über 80",
+    "Neuer Antrag",
+    "Immer Vertrag über 100"
+   ]
+  },
+  {
+   "id": "q068",
+   "chapter": "test",
+   "afb": 2,
+   "type": "match",
+   "prompt": "Ordnen Sie Vorgang und Einordnung zu.",
+   "answer": [
+    [
+     "Bestellung wird bestätigt",
+     "Verpflichtungsgeschäft"
+    ],
+    [
+     "Kaufgegenstand wird übergeben und übereignet",
+     "Erfüllungsgeschäft"
+    ],
+    [
+     "Defekter Akku",
+     "Sachmangel"
+    ],
+    [
+     "Drittrecht an der Sache",
+     "Rechtsmangel"
+    ]
+   ],
+   "explain": "Verpflichtungs- und Erfüllungsgeschäft bleiben getrennt.",
+   "source": "Abschlusstest",
+   "bonus": false
+  },
+  {
+   "id": "q069",
+   "chapter": "test",
+   "afb": 2,
+   "type": "number",
+   "prompt": "LoopLab kauft 60 Taschen à 8 € mit 15 % Rabatt. Wie hoch ist der Preis nach Rabatt (in Euro)?",
+   "answer": 408,
+   "explain": "60 × 8 € = 480 €; 15 % von 480 € = 72 €; 480 € − 72 € = 408 €.",
+   "source": "Abschlusstest",
+   "bonus": false
+  },
+  {
+   "id": "q070",
+   "chapter": "test",
+   "afb": 2,
+   "type": "single",
+   "prompt": "Verbraucherin kauft online bei einem Unternehmer, der die Sendung selbst organisiert. Paket geht zufällig verloren. Wer trägt grundsätzlich das Versandrisiko?",
+   "answer": "Unternehmer",
+   "explain": "§ 475 Abs. 2 BGB.",
+   "source": "Abschlusstest",
+   "bonus": false,
+   "options": [
+    "Unternehmer",
+    "Verbraucherin"
+   ]
+  },
+  {
+   "id": "q071",
+   "chapter": "test",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Gesamtfall: LoopLab bestätigt 10 Tablets zu 90 € pro Stück mit Lieferung an eine Schule. Zwei Tablets sind mangelhaft. Analysieren Sie Vertrag, mögliche Sachmängel, Nacherfüllung und weitere Rechte.",
+   "answer": "Bestätigung der Bestellung führt regelmäßig zum Vertrag. Kaufpreis 10 × 90 € = 900 €. Zwei Tablets weichen von geschuldeter Beschaffenheit ab und sind vermutlich mangelhaft (§ 434 BGB). Käufer kann grundsätzlich Nacherfüllung nach Wahl verlangen (§ 439 BGB), weitere Rechte nach § 437 BGB unter den jeweils erforderlichen Voraussetzungen. Lieferung/Leistungsort sind anhand der Vereinbarungen zu prüfen.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "Abschlusstest",
+   "bonus": false
+  },
+  {
+   "id": "q072",
+   "chapter": "test",
+   "afb": 2,
+   "type": "tf",
+   "prompt": "Eine mangelhafte Lieferung und ein Rechtsmangel sind immer dasselbe.",
+   "answer": false,
+   "explain": "Sachmangel betrifft Anforderungen an die Sache, Rechtsmangel entgegenstehende Rechte Dritter.",
+   "source": "Abschlusstest",
+   "bonus": false
+  },
+  {
+   "id": "q073",
+   "chapter": "test",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Bewerten Sie folgende Behauptung mit rechtlicher Begründung: „Frei Haus bedeutet automatisch, dass der Käufer schon bei Übergabe an den Paketdienst das Verlustrisiko trägt.“",
+   "answer": "Falsch. „Frei Haus“ betrifft regelmäßig die Beförderungskosten. Die Gefahrtragung folgt aus §§ 446, 447 BGB und bei Verbrauchsgüterkauf insbesondere § 475 Abs. 2 BGB; eine reine Kostenabrede ersetzt diese Prüfung nicht.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "Abschlusstest",
+   "bonus": false
+  },
+  {
+   "id": "q074",
+   "chapter": "abschluss",
+   "afb": 2,
+   "type": "tf",
+   "prompt": "Ist ein mit „freibleibend“ bezeichnetes Angebot im Normalfall wie ein festes Angebot bindend?",
+   "answer": false,
+   "explain": "Freizeichnung nimmt die Bindung regelmäßig zurück.",
+   "source": "Buch S. 310 Aufgabe 4c",
+   "bonus": false
+  },
+  {
+   "id": "q075",
+   "chapter": "abschluss",
+   "afb": 2,
+   "type": "tf",
+   "prompt": "Eine Bestellung über einen Katalogartikel ist immer selbst schon die Annahme eines bindenden Katalogangebots.",
+   "answer": false,
+   "explain": "Kataloge sind regelmäßig Anpreisungen.",
+   "source": "Buch S. 310 Aufgabe 2f",
+   "bonus": false
+  },
+  {
+   "id": "q076",
+   "chapter": "abschluss",
+   "afb": 2,
+   "type": "tf",
+   "prompt": "Ein Angebot kann auch dann wirksam sein, wenn die anbietende Person noch nicht Eigentümerin der Sache ist.",
+   "answer": true,
+   "explain": "Eigentum ist für eine wirksame Willenserklärung nicht erforderlich.",
+   "source": "Buch S. 310 Aufgabe 4g",
+   "bonus": false
+  },
+  {
+   "id": "q077",
+   "chapter": "abschluss",
+   "afb": 2,
+   "type": "tf",
+   "prompt": "Wird ein wirksames Angebot am Folgetag verspätet angenommen, kommt trotzdem automatisch ein Vertrag zustande.",
+   "answer": false,
+   "explain": "Verspätete Annahme gilt grundsätzlich als neuer Antrag (§ 150 Abs. 1 BGB).",
+   "source": "Buch S. 310 Aufgabe 2e",
+   "bonus": false
+  },
+  {
+   "id": "q078",
+   "chapter": "inhalt",
+   "afb": 2,
+   "type": "tf",
+   "prompt": "Preisnachlässe wie Rabatt oder Skonto können ohne Vereinbarung von jeder Rechnung beliebig abgezogen werden.",
+   "answer": false,
+   "explain": "Ein Preisnachlass benötigt eine entsprechende rechtliche Grundlage.",
+   "source": "Buch S. 34 Aufgabe 6",
+   "bonus": false
+  },
+  {
+   "id": "q079",
+   "chapter": "ort",
+   "afb": 2,
+   "type": "tf",
+   "prompt": "Der gesetzliche Leistungsort für Waren ist auch bei individuell vereinbarter Bringschuld immer der Sitz des Verkäufers.",
+   "answer": false,
+   "explain": "Die Vereinbarung geht vor.",
+   "source": "Präsentation Erfüllungsort",
+   "bonus": false
+  },
+  {
+   "id": "q080",
+   "chapter": "pflichten",
+   "afb": 2,
+   "type": "tf",
+   "prompt": "Die vereinbarte Kaufpreiszahlung ist eine zentrale Käuferpflicht.",
+   "answer": true,
+   "explain": "§ 433 Abs. 2 BGB.",
+   "source": "SCORM Pflichten",
+   "bonus": false
+  },
+  {
+   "id": "q081",
+   "chapter": "maengel",
+   "afb": 2,
+   "type": "tf",
+   "prompt": "Ein Artikel mit einer fehlerhaften Montageanleitung kann mangelhaft sein.",
+   "answer": true,
+   "explain": "Montageanforderungen sind Teil des § 434 BGB.",
+   "source": "Präsentation Sachmängel",
+   "bonus": false
+  },
+  {
+   "id": "q082",
+   "chapter": "rechte",
+   "afb": 2,
+   "type": "tf",
+   "prompt": "Der Käufer kann bei jedem kleinsten Sachmangel ohne weitere Voraussetzungen sofort zurücktreten.",
+   "answer": false,
+   "explain": "Es gelten Voraussetzungen und u. a. Ausschluss bei Unerheblichkeit (§ 323 Abs. 5 Satz 2 BGB).",
+   "source": "Präsentation Gewährleistung",
+   "bonus": false
+  },
+  {
+   "id": "q083",
+   "chapter": "abschluss",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Warum ist die Zusendung unbestellter Ware an Verbraucher nicht als Einverständnis durch Schweigen anzusehen?",
+   "answer": "§ 241a BGB soll Verbraucher vor aufgedrängten Zahlungsverpflichtungen schützen. Schweigen ist grundsätzlich keine Annahme; Ausnahmen bei irrtümlicher Zusendung und entsprechender Erkennbarkeit prüfen.",
+   "explain": "Analysieren Sie Voraussetzungen und Ausnahmen, bevor Sie sich festlegen.",
+   "source": "Zusatz Vertiefung",
+   "bonus": false
+  },
+  {
+   "id": "q084",
+   "chapter": "abschluss",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Vergleichen Sie die Fälle: persönlich ausgesprochenes Angebot und schriftliches Angebot ohne Frist. Warum können unterschiedliche Annahmefristen gelten?",
+   "answer": "Bei Anwesenden ist grundsätzlich sofort anzunehmen (§ 147 Abs. 1 BGB); bei Abwesenden ist regelmäßige Antwortdauer maßgeblich (§ 147 Abs. 2 BGB).",
+   "explain": "Analysieren Sie Voraussetzungen und Ausnahmen, bevor Sie sich festlegen.",
+   "source": "Zusatz Vertiefung",
+   "bonus": false
+  },
+  {
+   "id": "q085",
+   "chapter": "inhalt",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Entwerfen Sie eine faire Liefer- und Zahlungsvereinbarung für 20 gebrauchte Monitore im Schulunternehmen. Begründen Sie die ausgewählten Klauseln.",
+   "answer": "Muster: 20 Monitore, konkret beschriebene Qualität, Stück- und Gesamtpreis, Liefertermin, vereinbarter Ort, Transportkosten, Zahlungsziel sowie dokumentierte Mängel. Klauseln müssen klar und rechtlich wirksam sein.",
+   "explain": "Analysieren Sie Voraussetzungen und Ausnahmen, bevor Sie sich festlegen.",
+   "source": "Zusatz Vertiefung",
+   "bonus": false
+  },
+  {
+   "id": "q086",
+   "chapter": "inhalt",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Bewerten Sie, ob eine bloße Lieferklausel „frei Haus“ alle Vertragsfragen hinreichend regelt.",
+   "answer": "Nein; sie klärt im Regelfall Versandkosten, aber nicht automatisch Eigentumsübergang, Gefahrtragung, Lieferzeit, Mängelrechte und Zahlungsbedingungen.",
+   "explain": "Analysieren Sie Voraussetzungen und Ausnahmen, bevor Sie sich festlegen.",
+   "source": "Zusatz Vertiefung",
+   "bonus": false
+  },
+  {
+   "id": "q087",
+   "chapter": "ort",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Ein Händler aus Dresden verkauft Ware an eine Firma in Berlin und eine Privatkundin in Berlin. Vergleichen Sie die Versandgefahr.",
+   "answer": "Im unternehmerischen Versendungskauf kann § 447 BGB den Gefahrübergang bei ordnungsgemäßer Übergabe an Transportperson vorsehen. Beim Verbrauchsgüterkauf schränkt § 475 Abs. 2 BGB dies regelmäßig ein.",
+   "explain": "Analysieren Sie Voraussetzungen und Ausnahmen, bevor Sie sich festlegen.",
+   "source": "Zusatz Vertiefung",
+   "bonus": false
+  },
+  {
+   "id": "q088",
+   "chapter": "ort",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Erklären Sie, weshalb der Gerichtsstand nicht automatisch mit dem vertraglichen Erfüllungsort gleichzusetzen ist.",
+   "answer": "Die gerichtliche Zuständigkeit bestimmt sich nach der ZPO, etwa §§ 12, 13, 17, 29, 38. Besonders Verbraucher und Wirksamkeitsgrenzen von Gerichtsstandsabreden sind zu berücksichtigen.",
+   "explain": "Analysieren Sie Voraussetzungen und Ausnahmen, bevor Sie sich festlegen.",
+   "source": "Zusatz Vertiefung",
+   "bonus": false
+  },
+  {
+   "id": "q089",
+   "chapter": "pflichten",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Entwerfen Sie eine Tabelle der gegenseitigen Pflichten bei einem Kauf auf Rechnung.",
+   "answer": "Verkäufer: mangelfreie Übergabe, Eigentumsverschaffung. Käufer: Abnahme und fristgerechte Zahlung. Kaufvertrag begründet Pflichten; Übergabe/Übereignung und Zahlung erfüllen sie.",
+   "explain": "Analysieren Sie Voraussetzungen und Ausnahmen, bevor Sie sich festlegen.",
+   "source": "Zusatz Vertiefung",
+   "bonus": false
+  },
+  {
+   "id": "q090",
+   "chapter": "pflichten",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Begründen Sie, warum Eigentumsvorbehalt und Zahlung zeitlich auseinanderfallen können.",
+   "answer": "Bei wirksam vereinbartem Eigentumsvorbehalt wird Eigentum regelmäßig erst mit vollständiger Kaufpreiszahlung übertragen (§ 449 BGB), obwohl die Sache bereits übergeben ist.",
+   "explain": "Analysieren Sie Voraussetzungen und Ausnahmen, bevor Sie sich festlegen.",
+   "source": "Zusatz Vertiefung",
+   "bonus": false
+  },
+  {
+   "id": "q091",
+   "chapter": "maengel",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Vergleichen Sie eine vereinbarte Speichergröße, eine übliche Haltbarkeit und Rechte Dritter als unterschiedliche Prüfungsmaßstäbe.",
+   "answer": "Vereinbarte Speichergröße: subjektive Anforderungen (§ 434). Übliche Haltbarkeit: objektive Anforderungen (§ 434). Rechte Dritter: Rechtsmangel (§ 435).",
+   "explain": "Analysieren Sie Voraussetzungen und Ausnahmen, bevor Sie sich festlegen.",
+   "source": "Zusatz Vertiefung",
+   "bonus": false
+  },
+  {
+   "id": "q092",
+   "chapter": "maengel",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Ein Kunde meldet einen defekten Artikel; die Ursache könnte falsche Selbstmontage sein. Welche Tatsachen müssen erhoben werden?",
+   "answer": "Zeitpunkt, Montageanleitung, korrekte Befolgung, Vereinbarungen, Zustand bei Gefahrübergang, Ursache des Defekts und mögliche Beweislastregeln wie § 477 BGB.",
+   "explain": "Analysieren Sie Voraussetzungen und Ausnahmen, bevor Sie sich festlegen.",
+   "source": "Zusatz Vertiefung",
+   "bonus": false
+  },
+  {
+   "id": "q093",
+   "chapter": "rechte",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Die Reparatur wäre extrem teuer, eine Ersatzlieferung ist möglich. Kann der Verkäufer die gewünschte Reparatur immer erfüllen müssen?",
+   "answer": "Nein. Nach § 439 Abs. 4 BGB kann die gewählte Art der Nacherfüllung unter gesetzlichen Voraussetzungen, insbesondere wegen unverhältnismäßiger Kosten, verweigert werden.",
+   "explain": "Analysieren Sie Voraussetzungen und Ausnahmen, bevor Sie sich festlegen.",
+   "source": "Zusatz Vertiefung",
+   "bonus": false
+  },
+  {
+   "id": "q094",
+   "chapter": "rechte",
+   "afb": 3,
+   "type": "text",
+   "prompt": "Ein Käufer verlangt nach einem Mangel sofort 70 % Kaufpreisrückerstattung. Wie ist die rechtliche Minderungsberechnung angelegt?",
+   "answer": "Die Minderung richtet sich nach § 441 Abs. 3 BGB: Verhältnis des Werts in mangelfreiem Zustand zum tatsächlichen Wert bei Vertragsschluss; nicht beliebige Festlegung. Schätzung möglich.",
+   "explain": "Analysieren Sie Voraussetzungen und Ausnahmen, bevor Sie sich festlegen.",
+   "source": "Zusatz Vertiefung",
+   "bonus": false
+  },
+  {
+   "id": "q095",
+   "chapter": "abschluss",
+   "afb": 2,
+   "type": "single",
+   "prompt": "Kundin bezahlt einen an der Ladentheke ausgesuchten Stift, Händler übergibt ihn. Welche Aussage passt?",
+   "answer": "Konkludenter Vertragsschluss",
+   "explain": "Berücksichtigen Sie die Voraussetzungen des jeweiligen Falls.",
+   "source": "Zusatz Anwendung",
+   "bonus": false,
+   "options": [
+    "Konkludenter Vertragsschluss",
+    "Nur ein einseitiger Antrag"
+   ]
+  },
+  {
+   "id": "q096",
+   "chapter": "abschluss",
+   "afb": 2,
+   "type": "single",
+   "prompt": "Ein Verkäufer schreibt „gültig bis Freitag“ und der Käufer nimmt am Donnerstag ohne Änderung an. Was liegt grundsätzlich vor?",
+   "answer": "Fristgerechte Annahme",
+   "explain": "Berücksichtigen Sie die Voraussetzungen des jeweiligen Falls.",
+   "source": "Zusatz Anwendung",
+   "bonus": false,
+   "options": [
+    "Fristgerechte Annahme",
+    "Verspäteter neuer Antrag"
+   ]
+  },
+  {
+   "id": "q097",
+   "chapter": "inhalt",
+   "afb": 2,
+   "type": "single",
+   "prompt": "Der Anbieter vereinbart „ab Werk“ für 50 T-Shirts. Was ist typischerweise gemeint?",
+   "answer": "Käufer organisiert bzw. trägt Transport ab Werk",
+   "explain": "Berücksichtigen Sie die Voraussetzungen des jeweiligen Falls.",
+   "source": "Zusatz Anwendung",
+   "bonus": false,
+   "options": [
+    "Käufer organisiert bzw. trägt Transport ab Werk",
+    "Verkäufer zahlt alle Frachtkosten"
+   ]
+  },
+  {
+   "id": "q098",
+   "chapter": "inhalt",
+   "afb": 2,
+   "type": "single",
+   "prompt": "LoopLab möchte an Zahlungseingang innerhalb 7 Tagen einen Nachlass knüpfen. Welche Klausel passt?",
+   "answer": "2 % Skonto bei Zahlung innerhalb 7 Tagen",
+   "explain": "Berücksichtigen Sie die Voraussetzungen des jeweiligen Falls.",
+   "source": "Zusatz Anwendung",
+   "bonus": false,
+   "options": [
+    "2 % Skonto bei Zahlung innerhalb 7 Tagen",
+    "2 % Rabatt ab 100 Stück"
+   ]
+  },
+  {
+   "id": "q099",
+   "chapter": "ort",
+   "afb": 2,
+   "type": "single",
+   "prompt": "Welche Angabe ist für den Erfüllungsort am wichtigsten?",
+   "answer": "Wirksame konkrete Parteivereinbarung",
+   "explain": "Berücksichtigen Sie die Voraussetzungen des jeweiligen Falls.",
+   "source": "Zusatz Anwendung",
+   "bonus": false,
+   "options": [
+    "Wirksame konkrete Parteivereinbarung",
+    "Farbe des Warenkartons"
+   ]
+  },
+  {
+   "id": "q100",
+   "chapter": "ort",
+   "afb": 2,
+   "type": "single",
+   "prompt": "Ware wird vor Übergabe an Transportdienstleister beschädigt. Wer trägt bei gewöhnlicher Schickschuld grundsätzlich das Risiko?",
+   "answer": "Verkäufer",
+   "explain": "Berücksichtigen Sie die Voraussetzungen des jeweiligen Falls.",
+   "source": "Zusatz Anwendung",
+   "bonus": false,
+   "options": [
+    "Verkäufer",
+    "Käufer"
+   ]
+  },
+  {
+   "id": "q101",
+   "chapter": "pflichten",
+   "afb": 2,
+   "type": "single",
+   "prompt": "LoopLab schließt einen Vertrag über einen Laptop, liefert aber noch nicht. Was ist entstanden?",
+   "answer": "Anspruch auf Übergabe und Eigentumsverschaffung",
+   "explain": "Berücksichtigen Sie die Voraussetzungen des jeweiligen Falls.",
+   "source": "Zusatz Anwendung",
+   "bonus": false,
+   "options": [
+    "Anspruch auf Übergabe und Eigentumsverschaffung",
+    "Automatische Übereignung"
+   ]
+  },
+  {
+   "id": "q102",
+   "chapter": "pflichten",
+   "afb": 2,
+   "type": "single",
+   "prompt": "Ein Verkäufer übergibt ein Gerät, Käufer zahlt. Welche Ebene wird umgesetzt?",
+   "answer": "Erfüllung",
+   "explain": "Berücksichtigen Sie die Voraussetzungen des jeweiligen Falls.",
+   "source": "Zusatz Anwendung",
+   "bonus": false,
+   "options": [
+    "Erfüllung",
+    "Nur Anpreisung"
+   ]
+  },
+  {
+   "id": "q103",
+   "chapter": "maengel",
+   "afb": 2,
+   "type": "single",
+   "prompt": "Statt schwarz werden weiße Headsets geliefert, obwohl schwarz vereinbart war. Welche Prüfung passt?",
+   "answer": "Abweichung von vereinbarter Beschaffenheit",
+   "explain": "Berücksichtigen Sie die Voraussetzungen des jeweiligen Falls.",
+   "source": "Zusatz Anwendung",
+   "bonus": false,
+   "options": [
+    "Abweichung von vereinbarter Beschaffenheit",
+    "Rechtsmangel wegen eines Dritten"
+   ]
+  },
+  {
+   "id": "q104",
+   "chapter": "maengel",
+   "afb": 2,
+   "type": "single",
+   "prompt": "Eine fremde Marke erhebt berechtigte Ansprüche am verkauften Produkt. Was ist zu prüfen?",
+   "answer": "Rechtsmangel",
+   "explain": "Berücksichtigen Sie die Voraussetzungen des jeweiligen Falls.",
+   "source": "Zusatz Anwendung",
+   "bonus": false,
+   "options": [
+    "Rechtsmangel",
+    "Ausschließlich Verpackungskosten"
+   ]
+  },
+  {
+   "id": "q105",
+   "chapter": "rechte",
+   "afb": 2,
+   "type": "single",
+   "prompt": "Kunde verlangt bei Mangel zuerst Ersatzlieferung. Wie reagiert Verkäufer rechtmäßig?",
+   "answer": "Prüft Verfügbarkeit und Verhältnismäßigkeit",
+   "explain": "Berücksichtigen Sie die Voraussetzungen des jeweiligen Falls.",
+   "source": "Zusatz Anwendung",
+   "bonus": false,
+   "options": [
+    "Prüft Verfügbarkeit und Verhältnismäßigkeit",
+    "Verweist ohne Prüfung auf zwei Reparaturversuche"
+   ]
+  },
+  {
+   "id": "q106",
+   "chapter": "rechte",
+   "afb": 2,
+   "type": "single",
+   "prompt": "Nach erfolgloser Nacherfüllung möchte der Kunde die Sache behalten und weniger bezahlen. Welches Recht?",
+   "answer": "Minderung",
+   "explain": "Berücksichtigen Sie die Voraussetzungen des jeweiligen Falls.",
+   "source": "Zusatz Anwendung",
+   "bonus": false,
+   "options": [
+    "Minderung",
+    "Widerruf ohne Grund"
+   ]
+  },
+  {
+   "id": "q107",
+   "chapter": "abschluss",
+   "afb": 2,
+   "type": "text",
+   "prompt": "PDF Aufgabe 9b: Die Hoch AG sendet ein schriftliches Angebot mit der Klausel „solange Vorrat reicht“. Wie lange ist sie ohne zusätzliche Frist an die übrigen Angebotsbedingungen gebunden?",
+   "answer": "Bis unter normalen Umständen eine Antwort zu erwarten ist (§ 147 Abs. 2 BGB). Eine starre gesetzliche Wochenfrist besteht nicht; die Klausel schränkt außerdem die Mengenbindung ein.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "PDF Aufgabe 9b",
+   "bonus": false
+  },
+  {
+   "id": "q108",
+   "chapter": "abschluss",
+   "afb": 2,
+   "type": "text",
+   "prompt": "PDF Aufgabe 9c: Eine Firma erhält ein schriftliches Angebot am 3. April. Die Lehrbuchlösung nennt ungefähr den 10./11. April als Annahmezeitpunkt. Prüfen Sie, ob dies eine zwingende Rechtsfrist ist.",
+   "answer": "Nein. 10./11. April kann bei den geschilderten Kommunikationsumständen eine vertretbare Daumenregel sein, ist aber kein im BGB festgelegter Stichtag. § 147 Abs. 2 BGB verlangt eine Prüfung der gewöhnlich erwarteten Antwortdauer.",
+   "explain": "Vergleichen Sie Ihre Entscheidung mit der rechtlichen Begründung.",
+   "source": "PDF Aufgabe 9c – aktualisiert",
+   "bonus": false
+  },
+  {
+   "id": "q109",
+   "chapter": "abschluss",
+   "afb": 1,
+   "type": "tf",
+   "prompt": "Ein Antrag ist eine empfangsbedürftige Willenserklärung, die so bestimmt sein muss, dass ein einfaches Ja zur Annahme genügt.",
+   "answer": true,
+   "explain": "Der Antrag muss die wesentlichen Vertragsinhalte hinreichend bestimmen.",
+   "source": "Grundlagen-Check",
+   "bonus": false
+  },
+  {
+   "id": "q110",
+   "chapter": "abschluss",
+   "afb": 1,
+   "type": "tf",
+   "prompt": "Eine Annahme ist die Zustimmung zu einem Antrag.",
+   "answer": true,
+   "explain": "Das Ergebnis muss inhaltlich übereinstimmen.",
+   "source": "Grundlagen-Check",
+   "bonus": false
+  },
+  {
+   "id": "q111",
+   "chapter": "abschluss",
+   "afb": 1,
+   "type": "tf",
+   "prompt": "Die Abgabe einer Bestellung kann selbst ein Antrag sein.",
+   "answer": true,
+   "explain": "Insbesondere ohne vorheriges bindendes Angebot.",
+   "source": "Grundlagen-Check",
+   "bonus": false
+  },
+  {
+   "id": "q112",
+   "chapter": "inhalt",
+   "afb": 1,
+   "type": "tf",
+   "prompt": "Ein Rabatt ist ein vereinbarter Preisnachlass.",
+   "answer": true,
+   "explain": "Rabatte und Skonto unterscheiden sich nach ihrer Funktion.",
+   "source": "Grundlagen-Check",
+   "bonus": false
+  },
+  {
+   "id": "q113",
+   "chapter": "inhalt",
+   "afb": 1,
+   "type": "tf",
+   "prompt": "Die Menge ist eine mögliche Vertragsbedingung.",
+   "answer": true,
+   "explain": "Beispielsweise 20 Stück.",
+   "source": "Grundlagen-Check",
+   "bonus": false
+  },
+  {
+   "id": "q114",
+   "chapter": "ort",
+   "afb": 1,
+   "type": "tf",
+   "prompt": "Eine Holschuld verlangt grundsätzlich die Leistungshandlung am Ort des Schuldners.",
+   "answer": true,
+   "explain": "Vereinbarungen können einen anderen Leistungsort festlegen.",
+   "source": "Grundlagen-Check",
+   "bonus": false
+  },
+  {
+   "id": "q115",
+   "chapter": "ort",
+   "afb": 1,
+   "type": "tf",
+   "prompt": "Ein Erfüllungsort kann durch wirksame Vertragsvereinbarung bestimmt werden.",
+   "answer": true,
+   "explain": "§ 269 BGB.",
+   "source": "Grundlagen-Check",
+   "bonus": false
+  },
+  {
+   "id": "q116",
+   "chapter": "pflichten",
+   "afb": 1,
+   "type": "tf",
+   "prompt": "Der Käufer muss grundsätzlich den vereinbarten Kaufpreis zahlen.",
+   "answer": true,
+   "explain": "§ 433 Abs. 2 BGB.",
+   "source": "Grundlagen-Check",
+   "bonus": false
+  },
+  {
+   "id": "q117",
+   "chapter": "pflichten",
+   "afb": 1,
+   "type": "tf",
+   "prompt": "Der Verkäufer schuldet grundsätzlich eine mangelfreie Sache.",
+   "answer": true,
+   "explain": "§ 433 Abs. 1 Satz 2 BGB.",
+   "source": "Grundlagen-Check",
+   "bonus": false
+  },
+  {
+   "id": "q118",
+   "chapter": "maengel",
+   "afb": 1,
+   "type": "tf",
+   "prompt": "Ein Rechtsmangel kann mit Rechten Dritter zusammenhängen.",
+   "answer": true,
+   "explain": "§ 435 BGB.",
+   "source": "Grundlagen-Check",
+   "bonus": false
+  },
+  {
+   "id": "q119",
+   "chapter": "maengel",
+   "afb": 1,
+   "type": "tf",
+   "prompt": "Eine falsche Menge kann eine mangelhafte Leistung darstellen.",
+   "answer": true,
+   "explain": "Mengenabweichungen sind nach § 434 BGB zu beurteilen.",
+   "source": "Grundlagen-Check",
+   "bonus": false
+  },
+  {
+   "id": "q120",
+   "chapter": "rechte",
+   "afb": 1,
+   "type": "tf",
+   "prompt": "Reparatur und Ersatzlieferung sind Formen der Nacherfüllung.",
+   "answer": true,
+   "explain": "§ 439 BGB.",
+   "source": "Grundlagen-Check",
+   "bonus": false
+  }
+ ],
+ "checklist": [
+  "Ich kann Antrag und Annahme in Fällen unterscheiden.",
+  "Ich kann eine abgeänderte oder verspätete Annahme beurteilen.",
+  "Ich kann Vertragsinhalte und Preisnachlässe erklären.",
+  "Ich kann Rabatt und Skonto berechnen.",
+  "Ich kann Erfüllungsort und Versandgefahr unterscheiden.",
+  "Ich kann Verpflichtungs- und Erfüllungsgeschäft erklären.",
+  "Ich kann Sach- und Rechtsmängel erkennen.",
+  "Ich kann Nacherfüllung und nachrangige Rechte begründet prüfen.",
+  "Ich kann Regeln auf berufliche Kaufvertragsfälle übertragen."
+ ],
+ "sources": {
+  "presentation": "Kaufvertrag_2024_Skript.pptx",
+  "worksheet": "Kaufvertrag_Übung_ges_Lös.pdf",
+  "scorm": "vier LearningApp_SCORM-Pakete"
+ },
+ "date": "19.11.2026"
+}
