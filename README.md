@@ -42,3 +42,9 @@ Mit einem Netlify-Deploy prüfen: Registrierung Lehrkraft, Registrierung Schüle
 ## Wartung
 
 In `public/course.json` können Sie Aufgabentexte und Lösungen ergänzen. Vor Änderung IDs sichern, da Speichereinträge auf den IDs beruhen. Quiz-Typen: `single`, `multi`, `tf`, `number`, `text`, `match`. Die Lösung bei `match` ist eine Liste von `[Aussage, passende Zuordnung]`. Bei `number` eine Dezimalzahl. Änderung erfolgt via Push auf GitHub und automatisches Netlify-Deployment.
+
+## Fehlerbehebung: App bleibt bei „wird geladen“ stehen
+
+**Korrektur vom 19.11.2026:** In der ersten ZIP-Version wurde beim Start `loadGuest()` aufgerufen, bevor die verwendete Funktion `initial()` initialisiert war. Das verursachte einen JavaScript-Startabbruch. Die aktualisierte `public/app.js` behebt diese Initialisierungsreihenfolge und meldet fehlende Kursdaten sichtbar.
+
+Bei einem bereits veröffentlichten Netlify-Projekt die korrigierten Dateien ins GitHub-Repository übernehmen und den neuen Deploy abwarten. Anschließend die Kursseite neu laden (gegebenenfalls mit geleertem Browsercache). Der Publish-Ordner muss `public` sein. Zum Testen des Startbildschirms ist kein Lehrer-Code erforderlich.
